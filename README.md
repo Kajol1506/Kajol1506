@@ -1,38 +1,25 @@
-## Hi there 👋
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/demo/?color=F720EA font=Fira+Code&weight=600&size=24&pause=1000&color=blue&center=true&vCenter=true&random=false&width=435&lines=Hey+there%2C+I'm+Kajol" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F720EA&center=true&vCenter=true&random=false&width=435&lines=Hey+there%2C+I'm+Kajol" />
 </h1>
+
 
 ![Visitors](https://komarev.com/ghpvc/?username=Kajol1506&color=blueviolet)
 
 
 ## 🔨 What I'm Currently Working On
-💻 UI/UX Intern at Envidox Solutions – Designing and improving user interfaces & experiences for real-world projects.
-🚀 Learning Full-Stack Development – Focusing on Python (Django/Flask) and Java (Spring Boot) for backend, and React.js & Tailwind CSS for frontend.
-🎯 Practicing DSA in Java – Solving problems on GeeksforGeeks (GFG) and following Striver’s DSA Sheet for structured preparation.
+- 💻 UI/UX Intern at Envidox Solutions – Designing and improving user interfaces & experiences for real-world projects. <br>
+- 🚀 Learning Full-Stack Development – Focusing on Python (Django/Flask) and Java (Spring Boot) for backend, and React.js & Tailwind CSS for frontend. <br>
+- 🎯 Practicing DSA in Java – Solving problems on GeeksforGeeks (GFG) and following Striver’s DSA Sheet for structured preparation.
 
 
 
 ## 🏅 Certifications and Achievements
--CCNA: Introduction to Networks
- Manakula Vinayagar Institute of Technology, Cisco Networking Academy
--Learning Java 11
- Infosys Springboard
--Introduction to MongoDB for Students
- MongoDB University
--Introduction to Generative AI
- Google Cloud Skills Boost
--SQL – Basics (Standard)
- SkillRack
--Python 3.4.3 Training
- Spoken Tutorial Project, IIT Bombay
-
-
-
-
-## 🌍 Open Source Contributions
-- Contributed to [OpenCV](https://github.com/opencv/opencv) (Facial Recognition Integration)
-- Participated in Django repository issues and bug fixes.
+- CCNA: Introduction to Networks – Manakula Vinayagar Institute of Technology, Cisco Networking Academy <br>
+- Learning Java 11 – Infosys Springboard <br>
+- Introduction to MongoDB for Students – MongoDB University <br>
+- Introduction to Generative AI – Google Cloud Skills Boost <br>
+- SQL – Basics (Standard) – SkillRack <br>
+- Python 3.4.3 Training – Spoken Tutorial Project, IIT Bombay
 
 ## 🔥 GitHub Activity
 
