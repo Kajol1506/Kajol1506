@@ -34,11 +34,10 @@
 ![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=KajolDevanandhan)
 
 ## 📄 View My Resume
-<p align="center">
-  <a href="https://github.com/Kajol1506/Kajol1506/blob/main/KAJOL.D%20CSE-B.pdf" target="_blank">
-    📎 <b>Resume PDF</b>
-  </a>
-</p>
+
+<a href="https://github.com/Kajol1506/Kajol1506/blob/main/KAJOL.D%20CSE-B.pdf" target="_blank">
+  📎 <b>Resume PDF</b>
+</a>
 
 
 
