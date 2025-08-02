@@ -35,9 +35,8 @@
 
 ## 📄 View My Resume
 
-<a href="https://github.com/Kajol1506/Kajol1506/blob/main/KAJOL.D%20CSE-B.pdf" target="_blank">
-  📎 <b>Resume PDF</b>
-</a>
+📎 [Resume PDF](https://github.com/Kajol1506/Kajol1506/blob/main/KAJOL.D%20CSE-B.pdf)
+
 
 
 
