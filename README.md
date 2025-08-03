@@ -41,39 +41,45 @@
 
 
 ## 🌟 Key Projects
-### 1. Network Intrusion Detection System (NIDS)
-A Django-based system designed to detect and alert on network intrusions using signature-based and anomaly-based detection techniques. 
-- **Technologies**: Python, Django, Machine Learning (TensorFlow), PyShark
-- **Features**: Packet capture, analysis, and intrusion detection.
-- **Live Demo**: [Demo Link](https://github.com/Kalaiselvi-A/NIDS-Demo)
-  
-### 2. AI-Powered E-Commerce Recommendation System
-An e-commerce platform using AI-based recommendation algorithms to personalize user experiences.
-- **Technologies**: Python, TensorFlow, Django, Bootstrap
-- **Features**: User authentication, product recommendation, real-time data analysis.
-- **Live Demo**: [Demo Link](https://github.com/Kalaiselvi-A/ECommerce-AI)
+### 1. **📱 E-Commerce Mobile App UI (Figma)**
+A modern and user-friendly shopping app interface designed for smooth navigation and clean experience.  
+- 🎨 **Tool:** Figma  
+- 🛍️ **Features:** Product listing, cart, and checkout flow with a minimal UI  
+- 🔗 **Preview:** [View Design](https://www.figma.com/proto/ooixEOSxZOaTpYhVhthBso/Untitled?node-id=11-52&p=f&t=LtwB9dhJkH1tKQQL-1&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=11%3A52)
 
-### 3. Face Recognition-Based Online Attendance System
-A deep-learning-powered face recognition system for automating attendance.
-- **Technologies**: Python, OpenCV, TensorFlow, Flask
-- **Features**: Face detection, recognition, and attendance marking.
-- **Live Demo**: [Demo Link](https://github.com/Kalaiselvi-A/FaceRecognition-Attendance)
+### 2. **🛒 E-Commerce Website UI (Figma)**
+Responsive e-commerce website mockups including homepage, product page, and payment page.  
+- 🎨 **Tool:** Figma  
+- 💡 **Features:** Clean layout, easy navigation, and modern design components  
+- 🔗 **Preview:** [View Design](https://www.figma.com/proto/yaP9AP1BqOLjdmHfIVyLc4/ecommerce?node-id=77-126&p=f&t=jp6AZ93KV6PY1L2W-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=77%3A126)
+
+### 3. **📊 Dashboard UI Design (Figma)**
+An interactive and modern dashboard interface with charts and analytics-focused components.  
+- 🎨 **Tool:** Figma  
+- 📈 **Features:** Graphs, cards, and clean layout for better usability and data visualization  
+- 🔗 **Preview:** [View Design](https://www.figma.com/proto/GOkSx98LoEWv3iL5rFd8Tj/dashboard1?node-id=3-2&t=ntJ2r4RFLL8MRsdP-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A2)
+
+### 4. **🌦️ AI-Based Weather Prediction System | Mini Project**
+A basic IoT project that collects temperature and humidity data using sensors and shows it on a web page. It uses simple logic to predict basic weather conditions.  
+- 🔧 **Technologies:** ESP8266, DHT11, LM35, HTML, CSS, JavaScript  
+- 📂 **GitHub Repo:** *Coming Soon*
+
 
 ## 🛠 Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## 💬 Testimonials
-- "Kalaiselvi is a dedicated and talented developer with a keen eye for detail." – Mentor, TNS India Foundation.
-  
+
 ## 📚 Currently Learning
-- TensorFlow for Deep Learning
-- Advanced Microservices with Spring Boot
+- Data Structures and Algorithms (DSA) in Java
+- Advanced Java for Backend Development
+- Basics of AI Tools and Concepts
+
 
 <!--
 **Kajol1506/Kajol1506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
