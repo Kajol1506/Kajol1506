@@ -32,6 +32,8 @@
 
 ## 🏅 Coding Challenges
 ![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=KajolDevanandhan)
+[![GFG Profile](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/kajoldevanmcd9/)
+
 
 ## 📄 View My Resume
 
