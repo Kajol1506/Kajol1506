@@ -83,10 +83,9 @@ A basic IoT project that collects temperature and humidity data using sensors an
 
 🌐 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link/)  
-[![Resume](https://img.shields.io/badge/Resume-pdf-red?logo=adobeacrobatreader)](https://drive.google.com/your-resume-link)  
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kajoldevanandhan/) 
+[![Resume](https://img.shields.io/badge/Resume-pdf-red?logo=adobeacrobatreader)](https://drive.google.com/file/d/1bGZFRdq2XKgJ61zNm8Ft7ldyETyHP223/view?usp=sharing)
+ 
 
 <!--
 **Kajol1506/Kajol1506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
