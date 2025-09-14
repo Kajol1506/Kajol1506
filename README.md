@@ -79,7 +79,7 @@ A basic IoT project that collects temperature and humidity data using sensors an
 - Basics of AI Tools and Concepts
 
 
-  ---
+  
 
 🌐 Connect With Me  
 
