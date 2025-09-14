@@ -9,10 +9,11 @@
 "The best way to predict the future is to create it." – Abraham Lincoln.
 
 ## 🔨 What I'm Currently Working On
+- 📘 **UI/UX Intern at Envidox Solutions** – Designing and improving user interfaces & experiences for real-world projects.  
+- 🚀 **Learning Full-Stack Development** – Focusing on **Java (Spring Boot)** for backend, **MySQL** for database management, and **HTML, CSS, JavaScript** for frontend basics. Exploring **React.js / Angular** for modern frontend development.  
+- 🎯 **Practicing DSA in Java** – Solving problems on GeeksforGeeks (GFG) and following **Striver’s DSA Sheet** for structured preparation.  
 
--💻 **UI/UX Intern at Envidox Solutions** – Designing and improving user interfaces & experiences for real-world projects.
--🚀 **Learning Full-Stack Development** – Focusing on **Java (Spring Boot)** for backend, **MySQL** for database management, and **HTML, CSS, JavaScript** for frontend basics. Exploring **React.js / Angular** for modern frontend development.
--🎯 **Practicing DSA in Java** – Solving problems on GeeksforGeeks (GFG) and following Striver’s DSA Sheet for structured preparation.
+
 
 
 
