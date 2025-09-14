@@ -3,7 +3,8 @@
 </h1>
 
 
-![Visitors](https://komarev.com/ghpvc/?username=Kajol1506&color=blueviolet)
+![Profile views](https://komarev.com/ghpvc/?username=Kajo11506&label=Profile%20views&color=blueviolet&style=flat)
+
 
 ## 💡 Favorite Quote
 "The best way to predict the future is to create it." – Abraham Lincoln.
