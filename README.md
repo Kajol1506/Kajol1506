@@ -37,12 +37,6 @@
 
 
 
-## 📄 View My Resume
-
-📎 [Resume PDF](https://github.com/Kajol1506/Kajol1506/blob/main/KAJOL.D%20CSE-B.pdf)
-
-
-
 
 ## 🌟 Key Projects
 ### 1. **📱 E-Commerce Mobile App UI (Figma)**
@@ -83,6 +77,15 @@ A basic IoT project that collects temperature and humidity data using sensors an
 - Data Structures and Algorithms (DSA) in Java
 - Advanced Java for Backend Development
 - Basics of AI Tools and Concepts
+
+
+  ---
+
+🌐 Connect With Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link/)  
+[![Resume](https://img.shields.io/badge/Resume-pdf-red?logo=adobeacrobatreader)](https://drive.google.com/your-resume-link)  
+
 
 
 <!--
